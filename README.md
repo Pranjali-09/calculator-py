@@ -45,4 +45,4 @@ Everything runs inside a simple `while` loop that repeats until the user selects
 3. Run the file:
 
 ```bash
-python3 calculator.py
+python3 main.py
